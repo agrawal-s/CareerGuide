@@ -85,7 +85,7 @@ for users to interact with. This will be tested as per the system integration te
 
 Once the application is ready, it will go through a final black-box testing also to be referred as user acceptance testing. 
 
-It is recommended that the UAT to be performed in a different environment susch that the universality of the application is maintained.
+It is recommended that the UAT to be performed in a different environment such that the universality of the application is maintained.
 
 
 
